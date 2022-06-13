@@ -1,0 +1,7 @@
+# Joe Nyhan, 13 June 2022
+# A template file for a monthly budget in yaml.
+---
+expenses:
+  rent: 1300
+  food: 200
+income: 5000
