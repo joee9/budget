@@ -40,7 +40,7 @@ def main():
     path = f'./data/{s}'
 
     sh(f'mkdir {path}')
-    sh(f'cp ./data/template/data.yaml {path}/')
+    sh(f'cp ./template/data.yaml {path}/')
 
 if __name__ == '__main__':
     main()
